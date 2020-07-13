@@ -1,5 +1,5 @@
 {
-  "name": "reactExample",
+  "name": "react-example",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,5 +30,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Djackin/reactExample.git",
+  "author": "Jackin <dnwls2343@gmail.com>",
+  "license": "MIT"
 }
